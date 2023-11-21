@@ -3,8 +3,8 @@ This project can only run on Linux or other systems that support .so dynamic lib
 
 # How to use it
 Enter this in your shell:
-'''bash 
+```bash 
 python3 test.py 
-'''
+```
 
 Have a good time!
